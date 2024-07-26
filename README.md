@@ -8,15 +8,15 @@ As a data analyst, the goal is to explore, process, and analyze Spotify data to 
 # Data Source
 The data used for this analysis was obtained from Spotify through the following steps:
 
-1.Log in to Spotify: Log in to your Spotify account.
+1. Log in to Spotify: Log in to your Spotify account.
 
-2.Navigate to Privacy Settings: Go to your account settings and select the Privacy Settings.
+2. Navigate to Privacy Settings: Go to your account settings and select the Privacy Settings.
 
-3.Request Your Data: In the Privacy Settings, find the "Download Your Data" section and start a request.
+3. Request Your Data: In the Privacy Settings, find the "Download Your Data" section and start a request.
 
-4.Wait for Data: Spotify will process your request and send you an email with a download link within 30 days.
+4. Wait for Data: Spotify will process your request and send you an email with a download link within 30 days.
 
-5.Download Data: Download the data provided by Spotify, which includes your listening history and other relevant information.
+5. Download Data: Download the data provided by Spotify, which includes your listening history and other relevant information.
 
 For detailed instructions on how to request your data and use the Spotify API, refer to the Spotify API Documentation.
 
