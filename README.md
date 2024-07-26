@@ -26,7 +26,7 @@ Open the Power BI file Spotify_Listening_Habits_Insights.pbix for a comprehensiv
 # Case Study Visuals
 The visualizations created for this project can be accessed through the following Power BI report:
 
-Power BI Dashboard:https://docs.google.com/presentation/d/1q5Du616zGu-EV3cG9kcGbJYSpoLwrdVK/edit#slide=id.p1
+Power BI Dashboard:[https://docs.google.com/presentation/d/1q5Du616zGu-EV3cG9kcGbJYSpoLwrdVK/edit#slide=id.p1](https://docs.google.com/presentation/d/1-e0FA2lsPGrXaR0KUWNeZMUPykvW4S73XDGWuhzpLfQ/edit#slide=id.g2eeb87228b8_0_127)
 
 Please refer to the provided links for more information on the data analysis process, visualizations, presentation to stakeholders, and the data source.
 
